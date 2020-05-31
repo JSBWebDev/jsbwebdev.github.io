@@ -6,7 +6,8 @@
 }
 
 #background {
-	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(images/landing-pic7.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+		url("https://github.com/JSBWebDev/jsbwebdev.github.io/blob/master/Images/landing-pic7.jpg?raw=true");
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
