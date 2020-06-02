@@ -7,7 +7,7 @@
 
 #background {
 	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-		url("https://github.com/JSBWebDev/jsbwebdev.github.io/blob/master/Images/landing-pic7.jpg?raw=true");
+		url("https://images.unsplash.com/photo-1450849608880-6f787542c88a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1566&q=80");
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
@@ -18,8 +18,4 @@
 
 .jumbotron {
 	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
-}
-
-hr {
-	border-top: 2px solid black;
 }
